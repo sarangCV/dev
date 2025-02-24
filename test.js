@@ -1,0 +1,16 @@
+[
+  '1',
+  '2',
+  '3',
+  '4',
+  'subscriber_image',
+  'subscriber_signature',
+  'id_type_doc',
+  'id_doc_num',
+  'id_proof',
+  'id_proof_back',
+  'addr_type_doc',
+  'addr_doc_num',
+  'addr_proof',
+  'additional_docs',
+];

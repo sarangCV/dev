@@ -1,0 +1,68 @@
+const Colors = {
+  white: '#FFF',
+  mainBackground: '#503F90',
+  darkText: '#222B45',
+  darkWhiteBg: '#E5E5E5',
+  lightText: '#AEC1E5',
+  darkBackground: '#29307D',
+  lightGrey: '#E4E9F2',
+  darkGrey: '#686868',
+  buttonBg: '#E70889',
+  darkVarientText: '#737373',
+  black: '#000000',
+  lightVarientText: '#3F3D3D',
+  mediumVarientText: '#757171',
+
+  // TODO: Home screen
+  homeBackground: '#0A0C0B',
+  tabBoxBackground: '#FBFCFC',
+  blueVarient: '#3299DD',
+  navText: '#2C2D65',
+  lightVarientGreyBg: '#F4F6F9',
+  textColorDark: '#263238',
+  blackVarient: '#1E272E',
+  pinkVarient: '#E70889',
+  greyDarkVarient: '#747D8C',
+  offerGrey: '#696C6B',
+  drawerTextGrey: '#7A7E7C',
+  lightredVarient: '#F2F1FF',
+  lightGreyTextColor: '#8A96AD',
+  cancelBtn: '#2A2F82',
+  notListHead: '#0D0D26',
+  settingColor: '#1F2C37',
+  inputDefault: '#E4E9F2',
+  placeholderColor: '#696969',
+  disablebtn: '#B5B2B4',
+  labelTextColor: '#AFAFAF',
+  subText: '#9CA4AB',
+  purple: '#564292',
+  ligt_grey1: '#FEFEFE',
+  text: '#797777',
+  text_2: '#696969',
+  text_3: '#2187D1',
+
+  // TODO: Subscriber screen
+  userText: '#5F5F5F',
+  userSubText: '#9A9696',
+  description_1: '#1D2A33',
+
+  // TODO: Global styles
+  statusBar: '#58074D',
+  button: '#2A2F82',
+  border1: '#B4B1B1',
+  border2: '#C8C4C4',
+  label2: '#777474',
+  label3: '#80807F',
+  red: 'red',
+  bg_light: '#F7F7F7',
+  // Modal
+  modalHeader: '#D9D9D9',
+  green: 'green',
+  green_2: '#31B447',
+  green_3: '#31B936',
+  orange: '#FF8A00',
+
+  errorText: '#ae2012',
+};
+
+export default Colors;

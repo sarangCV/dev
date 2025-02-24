@@ -1,0 +1,58 @@
+const RecommendedListJson = [
+  {
+    pending_id: '1',
+    data_plan: 'FUP20M2000G',
+    data: '2000',
+    data_speed: 'speed Upto 20 Mbps',
+    data_value: '₹ 500',
+    data_usage: '6-month plan for 39.99 used',
+    data_off: '-75%',
+  },
+  {
+    pending_id: '2',
+    data_plan: 'FUP20M2000G',
+    data: '2000',
+    data_speed: 'speed Upto 20 Mbps',
+    data_value: '₹ 500',
+    data_usage: '6-month plan for 39.99 used',
+    data_off: '-75%',
+  },
+  {
+    pending_id: '3',
+    data_plan: 'FUP20M2000G',
+    data: '2000',
+    data_speed: 'speed Upto 20 Mbps',
+    data_value: '₹ 500',
+    data_usage: '6-month plan for 39.99 used',
+    data_off: '-75%',
+  },
+  {
+    pending_id: '4',
+    data_plan: 'FUP20M2000G',
+    data: '2000',
+    data_speed: 'speed Upto 20 Mbps',
+    data_value: '₹ 500',
+    data_usage: '6-month plan for 39.99 used',
+    data_off: '-75%',
+  },
+  {
+    pending_id: '5',
+    data_plan: 'FUP20M2000G',
+    data: '2000',
+    data_speed: 'speed Upto 20 Mbps',
+    data_value: '₹ 500',
+    data_usage: '6-month plan for 39.99 used',
+    data_off: '-75%',
+  },
+  {
+    pending_id: '6',
+    data_plan: 'FUP20M2000G',
+    data: '2000',
+    data_speed: 'speed Upto 20 Mbps',
+    data_value: '₹ 500',
+    data_usage: '6-month plan for 39.99 used',
+    data_off: '-75%',
+  },
+]
+
+export default RecommendedListJson
